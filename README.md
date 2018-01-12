@@ -1,2 +1,2 @@
 # gitstest2
-add merge
+modify merge
